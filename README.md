@@ -21,8 +21,7 @@ AI-powered fitness coach that generates personalized workout plans, custom diet 
 ### Installation
 
 1. Clone the repository
-```bash
-git clone https://github.com/vigneshgbe/ai-fitness-coach.git
+```https://github.com/Guddoo7980/Ai-Fitness-Coach-master
 cd ai-fitness-coach
 ```
 
